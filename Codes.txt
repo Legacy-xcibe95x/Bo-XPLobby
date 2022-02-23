@@ -1,0 +1,16 @@
+Prestige Lobby Codes:
+
+set clanname "{XE}"
+exec "../../../dev_usb000/iTzBo1/Prestige/iTzClan.cfg"
+exec "../../../dev_usb001/iTzBo1/Prestige/iTzClan.cfg"
+exec "../../../dev_usb002/iTzBo1/Prestige/iTzClan.cfg"
+exec "../../../dev_usb003/iTzBo1/Prestige/iTzClan.cfg"
+exec "../../../dev_usb004/iTzBo1/Prestige/iTzClan.cfg"
+
+XP Lobby codes:
+set clanname "{XE}"
+exec "../../../dev_usb000/iTzBo1/Xp/iTzClan.cfg"
+exec "../../../dev_usb001/iTzBo1/Xp/iTzClan.cfg"
+exec "../../../dev_usb002/iTzBo1/Xp/iTzClan.cfg"
+exec "../../../dev_usb003/iTzBo1/Xp/iTzClan.cfg"
+exec "../../../dev_usb004/iTzBo1/Xp/iTzClan.cfg"
